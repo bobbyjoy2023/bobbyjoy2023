@@ -1,34 +1,41 @@
-# 👋 Hi, I'm Bobby
+👋 Hi, I'm Bobby
 
-💻 **Aspiring IT Support Specialist** | **CompTIA A+ Certified**  
-🔧 Skilled in **Windows & Linux administration**, **Active Directory**, **networking**, and **remote support**.  
-📂 Building hands-on experience through a dedicated **home lab**: OS deployment, user management, hardware/software troubleshooting, Microsoft 365, and network monitoring.  
-🚀 Passionate about solving technical problems and delivering great end-user experiences.
+💻 Aspiring IT Support Specialist | CompTIA A+ Certified
+🔧 Hands-on skills in Windows & Linux administration, Active Directory, networking, and remote support.
+📂 Built a home IT lab simulating real-world IT support tasks: domain setup, Microsoft 365 configuration, ticketing, scripting, and troubleshooting.
+🚀 Passionate about problem-solving, documentation, and helping users stay productive.
 
----
+🛠 Skills & Tools
 
-## 🛠 Skills & Tools
-- **Operating Systems:** Windows 10/11, Windows Server, Ubuntu Linux  
-- **User Management:** Active Directory, Group Policy  
-- **Networking:** TCP/IP, DNS, DHCP, LAN/WAN troubleshooting  
-- **Remote Support:** AnyDesk, RDP, TeamViewer  
-- **Productivity & Email:** Microsoft 365 Admin, Outlook configuration  
-- **Monitoring:** PRTG Network Monitor, Nagios (basic)  
-- **Ticketing Systems:** Jira Service Management, ServiceNow (basic)  
-- **Scripting:** PowerShell (basic), Bash (basic)  
+Operating Systems: Windows 10 Pro, Windows Server 2022, Ubuntu Server
 
----
+User Management: Active Directory, Group Policy
 
-## 📂 Home Lab Projects
-| Project | Description | Proof |
-|---------|-------------|-------|
-| **Active Directory Setup** | Installed Windows Server, created domain, added users, applied GPOs | [Screenshots](./Active-Directory) |
-| **Network Troubleshooting** | Simulated LAN/DNS issues and resolved via IP/DNS fixes | [Screenshots](./Networking) |
-| **Remote Support Session** | Used AnyDesk to troubleshoot software & driver issues | [Screenshots](./Remote-Support) |
-| **Microsoft 365 Setup** | Created accounts, configured Outlook, resolved sync issues | [Screenshots](./M365) |
-| **Printer Sharing & Fix** | Shared network printer, fixed stuck print jobs | [Screenshots](./Peripherals) |
-| **System Monitoring** | Monitored VMs with PRTG and created outage alerts | [Screenshots](./Monitoring) |
+Networking: TCP/IP, DNS, DHCP, RDP troubleshooting
 
+Remote Support: RDP (tested), TeamViewer basics
+
+Productivity & Email: Microsoft 365 Admin Center, Outlook Web/App
+
+Ticketing Systems: Jira Service Management (mock tickets), ServiceNow (developer instance)
+
+Scripting: PowerShell (services export, AD user creation), Bash (user creation, disk usage)
+
+📂 Home Lab Projects
+Project	Description	Proof
+VM Setup	Built a lab with Windows 10 Pro, Windows Server 2022 (Domain Controller), and Ubuntu Server	Screenshots
+
+Active Directory & GPO	Promoted Server → DC, created users/groups, applied GPOs (password policy), verified on Windows 10 client	Screenshots
+
+Networking	Assigned static IPs, tested connectivity, broke/fixed subnet mask, verified DNS with nslookup	Screenshots
+
+Remote Access	Configured RDP to connect and manage Windows 10 remotely from another VM	Screenshots
+
+Microsoft 365 Setup	Created trial tenant, added users (Alice, Joe), configured Outlook, sent/received test emails	Screenshots
+
+Ticketing (Jira)	Opened 3 mock tickets (LAN issue, printer offline, email sync issue), wrote resolution notes, closed tickets	Screenshots
+
+Scripting	Ran PowerShell (Get-Service, New-ADUser) and Bash (adduser, df -h) to automate basic admin tasks	Screenshots
 ---
 
 ## 📜 Certifications
