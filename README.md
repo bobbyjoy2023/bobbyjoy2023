@@ -1,53 +1,80 @@
-👋 Hi, I'm Bobby
+# 👋 Hi, I'm Bobby
 
-💻 Aspiring IT Support Specialist | CompTIA A+ Certified
-🔧 Hands-on skills in Windows & Linux administration, Active Directory, networking, and remote support.
-📂 Built a home IT lab simulating real-world IT support tasks: domain setup, Microsoft 365 configuration, ticketing, scripting, and troubleshooting.
-🚀 Passionate about problem-solving, documentation, and helping users stay productive.
-
-🛠 Skills & Tools
-
-Operating Systems: Windows 10 Pro, Windows Server 2022, Ubuntu Server
-
-User Management: Active Directory, Group Policy
-
-Networking: TCP/IP, DNS, DHCP, RDP troubleshooting
-
-Remote Support: RDP (tested), TeamViewer basics
-
-Productivity & Email: Microsoft 365 Admin Center, Outlook Web/App
-
-Ticketing Systems: Jira Service Management (mock tickets), ServiceNow (developer instance)
-
-Scripting: PowerShell (services export, AD user creation), Bash (user creation, disk usage)
-
-📂 Home Lab Projects
-Project	Description	Proof
-VM Setup	Built a lab with Windows 10 Pro, Windows Server 2022 (Domain Controller), and Ubuntu Server	Screenshots
-
-Active Directory & GPO	Promoted Server → DC, created users/groups, applied GPOs (password policy), verified on Windows 10 client	Screenshots
-
-Networking	Assigned static IPs, tested connectivity, broke/fixed subnet mask, verified DNS with nslookup	Screenshots
-
-Remote Access	Configured RDP to connect and manage Windows 10 remotely from another VM	Screenshots
-
-Microsoft 365 Setup	Created trial tenant, added users (Alice, Joe), configured Outlook, sent/received test emails	Screenshots
-
-Ticketing (Jira)	Opened 3 mock tickets (LAN issue, printer offline, email sync issue), wrote resolution notes, closed tickets	Screenshots
-
-Scripting	Ran PowerShell (Get-Service, New-ADUser) and Bash (adduser, df -h) to automate basic admin tasks	Screenshots
----
-
-## 📜 Certifications
-- **CompTIA A+ Certified** *(Core 1 & Core 2)*
+💻 **Aspiring IT Support Specialist** | **CompTIA A+ Certified**  
+🔧 Skilled in **Windows administration**, **Active Directory**, **networking**, **remote support**, and **Microsoft 365**.  
+📂 Built a complete **home lab environment** simulating real IT workflows: OS deployment, account management, troubleshooting, Microsoft 365 setup, ticketing, and scripting.  
+🚀 Ready to contribute from **day one** with hands-on experience and a problem-solving mindset.  
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/bobby24/
-
-- **Email:** bobbyjoy2011@gmail.com
+## 🛠 Skills & Tools
+- **Operating Systems:** Windows 10/11, Windows Server 2022, Ubuntu Server (basic)  
+- **User Management:** Active Directory, Group Policy  
+- **Networking:** TCP/IP, DNS, DHCP, LAN/WAN troubleshooting  
+- **Remote Support:** RDP, TeamViewer (AnyDesk familiarity)  
+- **Productivity & Email:** Microsoft 365 Admin Center, Outlook configuration  
+- **Ticketing Systems:** Jira Service Management (mock tickets), ServiceNow (basic)  
+- **Scripting:** PowerShell (user & system management), Bash (basic user/admin commands)  
 
 ---
 
-> *"I believe great IT support isn’t just fixing problems — it’s making technology feel effortless for the user."*
+## 📂 Home Lab Projects
+
+### 1. VM Setup
+- Created lab environment with **Windows 10 Pro**, **Windows Server 2022**, and **Ubuntu Server** VMs in VirtualBox.  
+- Verified installation and configuration.  
+📸 [Screenshots](./VM-Setup)
+
+---
+
+### 2. Active Directory & GPO
+- Promoted Windows Server to a **Domain Controller** (`lab.local`).  
+- Created 2 users and 1 group in **Active Directory Users & Computers**.  
+- Applied a Group Policy Object (password length requirement).  
+📸 [Screenshots](./Active-Directory)
+
+---
+
+### 3. Networking
+- Configured static IPs and tested connectivity with `ping`.  
+- Broke connectivity by changing subnet mask, then fixed it.  
+- Verified DNS resolution using `nslookup`.  
+📸 [Screenshots](./Networking)
+
+---
+
+### 4. Remote Support
+- Enabled **RDP** on Windows 10 and connected from another VM.  
+- Verified remote access by managing settings and files.  
+📸 [Screenshots](./Remote-Support)
+
+---
+
+### 5. Microsoft 365 Setup
+- Signed up for **Microsoft 365 Developer Program**.  
+- Created 2 users in **Admin Center**, assigned licenses.  
+- Configured Outlook, sent test emails between accounts.  
+📸 [Screenshots](./M365)
+
+---
+
+### 6. Ticketing System
+- Opened 3 mock tickets in **Jira Service Management**:  
+  - LAN issue  
+  - Printer offline  
+  - Email not syncing  
+- Added resolution notes and closed tickets.  
+📸 [Screenshots](./Ticketing)
+
+---
+
+### 7. Scripting
+- Ran **PowerShell** commands:  
+  - `Get-Service | Export-Csv` to list services.  
+  - `New-ADUser` to create domain users.  
+- Ran **Bash** commands in Ubuntu:  
+  - `adduser` to create accounts.  
+  - `df -h` to check disk usage.  
+📸 [Screenshots](./Scripting)
+
+
