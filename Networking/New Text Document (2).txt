@@ -1,0 +1,1 @@
+“nslookup against 10.0.0.50 works and resolves names correctly. The client output shows ‘Server: Unknown’ because reverse DNS wasn’t configured for the DNS server IP. This doesn’t affect forward lookups or normal functionality.”

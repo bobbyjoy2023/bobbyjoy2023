@@ -1,0 +1,1 @@
+“In a real network, this misconfiguration would cause communication failure. In my VM environment, ping still succeeded due to how the virtual switch forwards traffic, but the principle remains valid
