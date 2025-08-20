@@ -23,7 +23,7 @@
 ### 1. VM Setup
 - Created lab environment with **Windows 10 Pro**, **Windows Server 2022**, and **Ubuntu Server** VMs in VirtualBox.  
 - Verified installation and configuration.  
-📸 [Screenshots](./VM-Setup)
+📸 [Screenshots](https://github.com/bobbyjoy2023/bobbyjoy2023/tree/main/Virtual-Machine-Setup)
 
 ---
 
