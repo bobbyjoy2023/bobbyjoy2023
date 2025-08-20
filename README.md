@@ -31,7 +31,8 @@
 - Promoted Windows Server to a **Domain Controller** (`lab.local`).  
 - Created 2 users and 1 group in **Active Directory Users & Computers**.  
 - Applied a Group Policy Object (password length requirement).  
-📸 [Screenshots] (https://github.com/bobbyjoy2023/bobbyjoy2023/tree/main/Active-Directory)
+📸 [Screenshots](https://github.com/bobbyjoy2023/bobbyjoy2023/blob/main/Active-Directory/client%20server%20proof.png)
+
 ---
 
 ### 3. Networking
