@@ -75,6 +75,6 @@
 - Ran **Bash** commands in Ubuntu:  
   - `adduser` to create accounts.  
   - `df -h` to check disk usage.  
-📸 [Screenshots](./Scripting)
+📸 [Screenshots](https://github.com/bobbyjoy2023/bobbyjoy2023/tree/main/Scripting)
 
 
