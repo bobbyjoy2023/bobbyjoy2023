@@ -54,7 +54,7 @@
 - Signed up for **Microsoft 365 Developer Program**.  
 - Created 2 users in **Admin Center**, assigned licenses.  
 - Configured Outlook, sent test emails between accounts.  
-📸 [Screenshots](./M365)
+📸 [Screenshots](https://github.com/bobbyjoy2023/bobbyjoy2023/tree/main/MS365)
 
 ---
 
